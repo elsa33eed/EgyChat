@@ -1,4 +1,4 @@
-const socket = io("http://localhost:1212");
+const socket = io("https://egychat.onrender.com");
 
 const messagesContainer = document.getElementById("messages-container");
 const nameInput = document.getElementById("name-input");
