@@ -1,4 +1,4 @@
-const socket = io();
+const socket = io("https://egychat.onrender.com");
 
 const messagesContainer = document.getElementById("messages-container");
 const nameInput = document.getElementById("name-input");
