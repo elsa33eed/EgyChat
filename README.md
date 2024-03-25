@@ -33,12 +33,12 @@ npm start
 
 Open your web browser and visit [http://localhost:3000](https://egychat.onrender.com) to access the EgyChat application.
 
-###Usage
+##Usage
 1-Start a conversation by selecting a user from the contact list.
 2-Send messages in real-time and enjoy chatting with others!
 3-Explore other features and functionalities as they become available through upgrades.
 
-###Contributing
+##Contributing
 I welcome contributions to EgyChat! If you'd like to contribute to the project, please follow these steps:
 
 1-Fork the repository on GitHub.
@@ -48,5 +48,5 @@ I welcome contributions to EgyChat! If you'd like to contribute to the project, 
 5-Push your changes to your fork on GitHub.
 6-Submit a pull request to the main repository, detailing the changes you've made.
 
-###Feedback
+##Feedback
 We value your feedback! If you encounter any issues, have suggestions for improvements, or want to share your thoughts on EgyChat, please feel free to reach out to us.
